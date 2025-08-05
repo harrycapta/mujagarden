@@ -1,0 +1,9 @@
+
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+  padding: 2em;
+}
+a { color: cyan; text-decoration: none; }
+a:hover { text-decoration: underline; }
